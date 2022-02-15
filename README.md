@@ -23,8 +23,8 @@ In this workshop, we show how Phala provides trustless computing service of over
     - Contract ID: `0x56fd8aa93c5bf2d54aac23398777077f24404527c4a495376170d2c8535722cc`
     - Contract's `metadata.json`: https://bit.ly/3uMUvdZ
   - Use our Testnet to deploy your own contract
-    - Substate endpoint: `wss://poc5.phala.network/ws`
-    - Secure Worker endpoints: https://poc5.phala.network/tee-api-{n} with (n = 1 to 8)
+    - Substate endpoints: `wss://poc5.phala.network/ws` / `wss://poc5-2.phala.network/ws`
+    - Secure Worker endpoints: https://poc5.phala.network/tee-api-{n} / https://poc5-2.phala.network/tee-api-{n} with (n = 1 to 5)
 
 ## 🎉 After-workshop Hackathon
 
