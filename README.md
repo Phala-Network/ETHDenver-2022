@@ -20,7 +20,7 @@ In this workshop, we show how Phala provides trustless computing service of over
 - [Workshop codebase](https://github.com/Phala-Network/fat-contract-workshop/tree/ethdenver-2022)
   - To interact with our Demo Fat Contract and get POAP
     - Frontend: https://phala-js-sdk-example.netlify.app/
-    - Contract ID: `0x56fd8aa93c5bf2d54aac23398777077f24404527c4a495376170d2c8535722cc`
+    - Contract ID: `0x6cad353bad2232931ae7878b2013439bfca2576cd0c0d2c72093dc4c63c68568`
     - Contract's `metadata.json`: https://bit.ly/3uMUvdZ
   - Use our Testnet to deploy your own contract
     - Substate endpoints: `wss://poc5.phala.network/ws` / `wss://poc5-2.phala.network/ws`
