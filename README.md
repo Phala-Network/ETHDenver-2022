@@ -21,3 +21,9 @@ Some useful resources include:
 - [Phala Wiki](https://wiki.phala.network/en-us/general/phala-network/01-phala-network/) about Phala applications, mining and Fat Contract development
 - [Discord channel](https://discord.gg/myBmQu5) and [Forum](https://forum.phala.network/) to discuss with us and our community members directly
 - [Medium](https://medium.com/phala-network) and [Twitter](https://twitter.com/PhalaNetwork) to learn about our latest progress
+
+## Resources for this workshop
+
+- The [event link](https://ethdenver.sched.com/event/vBYq/the-web3-infrastructure-beyond-smart-contract)
+- The [rendering demo codebase](https://github.com/Phala-Network/blender-contract)
+- The [workshop codebase](https://github.com/Phala-Network/fat-contract-workshop/tree/http)
