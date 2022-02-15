@@ -44,7 +44,8 @@ There is no need to register, just come to play!
 | Prize ($ in PHA)                                                    | Winners |
 | ------------------------------------------------------------------- | ------- |
 | $100 + [Phala World](https://www.phalaworld.com/) NFT               | 1       |
-| $100 + Whitelist for [Phala World](https://www.phalaworld.com/) NFT | 9       |
+| $100 + Whitelist for [Phala World](https://www.phalaworld.com/) NFT | 4       |
+| $100                                                                | 5       |
 
 
 ### 🏁 Challenge
