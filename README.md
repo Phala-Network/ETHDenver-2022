@@ -31,9 +31,9 @@ In this workshop, we show how Phala provides trustless computing service of over
 ### 📅 Dates
 
 - Launch Event: February 15th 1:00 pm MST, right after our ETHDenver Workshop
-- Duration: One week
-- End: February 22nd 1:00 pm MST
-- Prize distribution period: up to one week after the end, on March 1st
+- Duration: Two weeks
+- End: March 1st 1:00 pm MST
+- Prize distribution period: up to one week after the end, on March 15th
 
 ### ✍️ Registration
 
@@ -43,8 +43,8 @@ There is no need to register, just come to play!
 
 | Prize ($ in PHA)                                                    | Winners |
 | ------------------------------------------------------------------- | ------- |
-| $100 + [Phala World](https://www.phalaworld.com/) NFT               | 3       |
-| $100 + Whitelist for [Phala World](https://www.phalaworld.com/) NFT | 7       |
+| $100 + [Phala World](https://www.phalaworld.com/) NFT               | 1       |
+| $100 + Whitelist for [Phala World](https://www.phalaworld.com/) NFT | 9       |
 
 
 ### 🏁 Challenge
