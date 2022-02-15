@@ -17,7 +17,7 @@ In this workshop, we show how Phala provides trustless computing service of over
 - If you have any questions, visit [here](https://bit.ly/3GTDhhs) to post and get them answered
 - [Event link](https://ethdenver.sched.com/event/vBYq/the-web3-infrastructure-beyond-smart-contract)
 - [Rendering demo codebase](https://github.com/Phala-Network/blender-contract)
-- [Workshop codebase](https://github.com/Phala-Network/fat-contract-workshop/tree/http)
+- [Workshop codebase](https://github.com/Phala-Network/fat-contract-workshop/tree/ethdenver-2022)
   - To interact with our Demo Fat Contract and get POAP
     - Frontend: https://phala-js-sdk-example.netlify.app/
     - Contract ID: `0x56fd8aa93c5bf2d54aac23398777077f24404527c4a495376170d2c8535722cc`
